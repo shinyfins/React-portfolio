@@ -1,4 +1,6 @@
 import React from 'react'
+import {Nav, NavLink, Bars, NavMenu, Navbtn, NavbtnLink} from './NavbarElements'
+
 
 const Navbar = () => {
   return (
@@ -6,7 +8,7 @@ const Navbar = () => {
       <Nav>
           <NavLink to="/">
               <h1>
-                  Logo
+                  Marcos Castillo
               </h1>
           </NavLink>
           <Bars />
@@ -24,12 +26,10 @@ const Navbar = () => {
                   Resume
               </NavLink>
           </NavMenu>
-          <NavBtn>
-              <NavBtnLink to="/signin">Sign In</NavBtnLink>
-          </NavBtn>
+          
       </Nav>
     </>
-  )
-}
+  );
+};
 
 export default Navbar
