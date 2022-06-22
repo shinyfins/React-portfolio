@@ -5,7 +5,7 @@ export const About = () => {
   return (
     <Container>
            <Col md={4}>
-        <img src={require('..')}
+        <img src={require('../assets/me.JPG')}
         style={{
             display: 'flex',
             width: '40%',
@@ -20,7 +20,9 @@ export const About = () => {
         style={{display: 'flex', 
         height:'90vh',
         }}
-        >I'm Marcos, I like lego, zoids, and One Piece</h1>
+        >I'm Marcos, I like lego, zoids, and One Piece<br></br>
+        Hello born and raised in Phoenix, Arizona. Have always had a love for technology and videogames! I realized why not take that passion and put it to good use.</h1>
+        
         </Row>
         </Col>
     </Container>
