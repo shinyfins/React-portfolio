@@ -29,7 +29,7 @@ export const Portfolio = () => {
 
           <Col md={4}>
           <a href="https://defhook.github.io/dinero/" target="_blank">
-          <img src={require('../assets/Dinero.png')}
+          <img src={require('../assets/Dinero.png')} alt="xxxx"
         style={{
             display: 'flex',
             width: '80%',
@@ -50,7 +50,7 @@ export const Portfolio = () => {
           </Col>
           <Col md={4}>
           <a href="https://shinyfins.github.io/Code-Quiz-W4/" target="_blank">
-          <img src={require('../assets/code-q.png')}
+          <img src={require('../assets/code-q.png')} alt="xxxx"
         style={{
             display: 'flex',
             width: '80%',
@@ -71,7 +71,7 @@ export const Portfolio = () => {
           </Col>
           <Col md={4}>
           <a href="https://boiling-fjord-00515.herokuapp.com/" target="_blank">
-          <img src={require('../assets/food-truck.png')}
+          <img src={require('../assets/food-truck.png')} alt="xxxx"
         style={{
             display: 'flex',
             width: '80%',
@@ -96,7 +96,7 @@ export const Portfolio = () => {
             <Row style={{ justifyContent: "center", paddingBottom: "10px", paddingTop: "10px", }} >
             <Col md={4}>
               <a href="https://shinyfins.github.io/Weather-API/" target="_blank">
-          <img src={require('../assets/WEATHER.png')}
+          <img src={require('../assets/WEATHER.png')} alt="xxxx"
         style={{
             display: 'flex',
             width: '80%',
@@ -117,7 +117,7 @@ export const Portfolio = () => {
           </Col>
           <Col md={4}>
           <a href="https://shinyfins.github.io/Calender-W5/" target="_blank">
-          <img src={require('../assets/calender.png')}
+          <img src={require('../assets/calender.png')} alt="xxxx"
         style={{
             display: 'flex',
             width: '80%',
@@ -138,7 +138,7 @@ export const Portfolio = () => {
           </Col>
           <Col md={4}>
           <a href="https://shinyfins.github.io/Code-Generator/" target="_blank">
-          <img src={require('../assets/codes.png')}
+          <img src={require('../assets/codes.png')} alt="xxxx"
         style={{
             display: 'flex',
             width: '80%',

@@ -5,7 +5,7 @@ export const About = () => {
   return (
     <Container>
            <Col md={4}>
-        <img src={require('../assets/me.JPG')}
+        <img src={require('../assets/me.JPG')}alt="xxxx"
         style={{
             display: 'flex',
             width: '40%',
