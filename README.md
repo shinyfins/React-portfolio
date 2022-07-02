@@ -1,5 +1,18 @@
 # Getting Started with Create React App
 
+
+
+#HOW TO RUN THE PROGRAM
+to run this project first in the terminal do
+npm init
+<br>
+npm i
+<br>
+npm start
+<br>
+the website should open on the browser on local host port 3000
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts I
