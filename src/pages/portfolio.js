@@ -49,8 +49,8 @@ export const Portfolio = () => {
 
           </Col>
           <Col md={4}>
-          <a href="https://shinyfins.github.io/Code-Quiz-W4/" target="_blank">
-          <img src={require('../assets/code-q.png')} alt="xxxx"
+          <a href="https://secure-river-32894.herokuapp.com/" target="_blank">
+          <img src={require('../assets/pass.jpg')} alt="xxxx"
         style={{
             display: 'flex',
             width: '80%',
@@ -65,7 +65,7 @@ export const Portfolio = () => {
         alignItems: 'center',
         padding: '10px', 
          }}> 
-         The code quiz!</p>
+         Final project, PASS!</p>
         </a>
 
           </Col>
