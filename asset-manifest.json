@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/React-portfolio/static/css/main.6847f490.css",
-    "main.js": "/React-portfolio/static/js/main.d76a511e.js",
+    "main.js": "/React-portfolio/static/js/main.0ef4d4bc.js",
     "static/js/787.137aa76a.chunk.js": "/React-portfolio/static/js/787.137aa76a.chunk.js",
     "static/media/me.JPG": "/React-portfolio/static/media/me.c44e86b38018fbcff143.JPG",
+    "static/media/pass.jpg": "/React-portfolio/static/media/pass.b8a340d44ad2ecc3b08e.jpg",
     "static/media/food-truck.png": "/React-portfolio/static/media/food-truck.879324dd198b6a6de980.png",
     "static/media/WEATHER.png": "/React-portfolio/static/media/WEATHER.6becf0227eeb520d9fa3.png",
     "static/media/Dinero.png": "/React-portfolio/static/media/Dinero.63e1f4fe254a5c192495.png",
     "static/media/calender.png": "/React-portfolio/static/media/calender.c97e5534a6f3b9c8e5a5.png",
-    "static/media/code-q.png": "/React-portfolio/static/media/code-q.6fd8affc0e78852c2842.png",
     "static/media/codes.png": "/React-portfolio/static/media/codes.d83ff954e2ab7813d8a9.png",
     "index.html": "/React-portfolio/index.html",
     "main.6847f490.css.map": "/React-portfolio/static/css/main.6847f490.css.map",
-    "main.d76a511e.js.map": "/React-portfolio/static/js/main.d76a511e.js.map",
+    "main.0ef4d4bc.js.map": "/React-portfolio/static/js/main.0ef4d4bc.js.map",
     "787.137aa76a.chunk.js.map": "/React-portfolio/static/js/787.137aa76a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6847f490.css",
-    "static/js/main.d76a511e.js"
+    "static/js/main.0ef4d4bc.js"
   ]
 }
