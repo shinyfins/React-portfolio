@@ -2,7 +2,7 @@
 
 
 
-#HOW TO RUN THE PROGRAM
+#HOW TO RUN THE PROGRAM-
 to run this project first in the terminal do
 npm init
 <br>
